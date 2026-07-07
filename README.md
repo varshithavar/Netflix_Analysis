@@ -104,4 +104,4 @@ Line chart comparing how Movies and TV Shows were added over time.
 
 If you liked this, feel free to ⭐ the repo or connect with me on LinkedIn!
 
-LinkedIn - https://www.linkedin.com/in/purvi-jain-315683326/
+LinkedIn - www.linkedin.com/in/varshitha-kg-931727370
